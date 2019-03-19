@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Desktop/Code/turtlebot/devel
+
+Name: turtlebot_frontier_exploration
+Description: Description of turtlebot_frontier_exploration
+Version: 0.0.2
+Cflags: 
+Libs: -L/home/nvidia/Desktop/Code/turtlebot/devel/lib 
+Requires: 

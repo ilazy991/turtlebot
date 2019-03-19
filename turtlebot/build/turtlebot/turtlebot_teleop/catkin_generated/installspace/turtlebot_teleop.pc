@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Desktop/Code/turtlebot/install
+
+Name: turtlebot_teleop
+Description: Description of turtlebot_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/Desktop/Code/turtlebot/install/lib 
+Requires: 

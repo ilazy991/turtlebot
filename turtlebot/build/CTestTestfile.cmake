@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/nvidia/Desktop/Code/turtlebot/src
+# Build directory: /home/nvidia/Desktop/Code/turtlebot/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs(turtlebot_create/create_description)
+subdirs(turtlebot_create/create_driver)
+subdirs(turtlebot/turtlebot)
+subdirs(turtlebot_apps/turtlebot_apps)
+subdirs(turtlebot/turtlebot_capabilities)
+subdirs(turtlebot_create/turtlebot_create)
+subdirs(turtlebot_interactions/turtlebot_dashboard)
+subdirs(turtlebot_simulator/turtlebot_gazebo)
+subdirs(turtlebot_interactions/turtlebot_interactions)
+subdirs(turtlebot_apps/turtlebot_rapps)
+subdirs(turtlebot_interactions/turtlebot_rviz_launchers)
+subdirs(turtlebot_simulator/turtlebot_simulator)
+subdirs(turtlebot_simulator/turtlebot_stage)
+subdirs(turtlebot_simulator/turtlebot_stdr)
+subdirs(turtlebot_create/create_node)
+subdirs(turtlebot_apps/turtlebot_actions)
+subdirs(turtlebot/turbot_arm)
+subdirs(turtlebot/turtlebot_bringup)
+subdirs(turtlebot/turtlebot_code)
+subdirs(turtlebot_apps/turtlebot_frontier_exploration)
+subdirs(turtlebot_interactions/turtlebot_interactive_markers)
+subdirs(turtlebot/turbot_map)
+subdirs(turtlebot_msgs)
+subdirs(turtlebot_apps/turtlebot_follower)
+subdirs(turtlebot_apps/turtlebot_navigation)
+subdirs(turtlebot/turbot_rviz)
+subdirs(turtlebot/turbot_slam)
+subdirs(turtlebot/turtlebot_teleop)
+subdirs(turtlebot/turbot_tools)
+subdirs(turtlebot/turtlebot_description)

@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Desktop/Code/turtlebot/devel
+
+Name: turtlebot_rviz
+Description: Description of turtlebot_rviz
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/Desktop/Code/turtlebot/devel/lib 
+Requires: 

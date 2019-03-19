@@ -1,0 +1,4 @@
+#!/bin/bash
+
+roslaunch turtlebot_tools test_rplidar.launch
+

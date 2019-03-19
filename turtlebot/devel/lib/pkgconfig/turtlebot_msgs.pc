@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Desktop/Code/turtlebot/devel
+
+Name: turtlebot_msgs
+Description: Description of turtlebot_msgs
+Version: 2.2.1
+Cflags: -I/home/nvidia/Desktop/Code/turtlebot/devel/include
+Libs: -L/home/nvidia/Desktop/Code/turtlebot/devel/lib 
+Requires: std_msgs sensor_msgs std_srvs message_runtime
